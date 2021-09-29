@@ -1,0 +1,12 @@
+.bj-doc-code-grid {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: auto;
+  width: 100%;
+}
+.bj-doc--code-content {
+  min-width: 0;
+  overflow: auto;
+}
+
+
